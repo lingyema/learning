@@ -24,7 +24,7 @@
         <dependency>
             <groupId>net.sourceforge.htmlunit</groupId>
             <artifactId>htmlunit</artifactId>
-            <version>2.36.0</version>
+            <version>2.37.0</version>
         </dependency>
 <!--        分词的第三库，这个使用方便（还有结巴分词）-->
         <dependency>
